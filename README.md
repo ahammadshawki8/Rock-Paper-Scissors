@@ -8,7 +8,7 @@ GUI based Rock-Paper-Scissors game created using Pygame. You can play this game 
 * Score meter.
 * Minimal design.
 * Mouse based input system.
-* Target chooser
+* Target chooser.
 * Several bug fixes.
 
 # How to use
